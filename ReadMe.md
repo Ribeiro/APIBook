@@ -55,11 +55,11 @@ Well, there are few reasons:
  get all books
  ```
   query {
-  allBook{
-    id
-    name
-    pageCount
-  }
+    allBook{
+      id
+      name
+      pageCount
+    }
   }
 ```
 
